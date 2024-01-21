@@ -1,5 +1,3 @@
-let CV = function ()=> {
-    
+let CV = ()=> {
+    console.log("Hello World!")
 }
-
-console.log("Hello World!")
