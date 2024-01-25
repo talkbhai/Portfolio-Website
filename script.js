@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'righ' });
 
 
 /*=============== typed js ===============*/
-const typed = new typed ('.multiple-text', {
+const typed = new Typed ('.typed-text', {
     strings: ['Web Developer!', 'YouTuber', 'Content Creater'],
     typeSpeed: 100,
     backSpeed: 100,

@@ -494,6 +494,10 @@ span {
     .contact form .input-box input {
         width: 100%;
     }
+
+    .footer {
+        flex-direction: column-reverse;
+    }
 }
 
 @media (max-width: 365px) {
@@ -503,10 +507,6 @@ span {
 
     .about-img img {
         width: 80vw;
-    }
-
-    .footer {
-        flex-direction: column-reverse;
     }
 
     .footer p {
